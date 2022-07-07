@@ -23,7 +23,10 @@ While the program is running, it will display which image has already been proce
 
 At the end of the program, it will show the total number of images that are not modified and file names are saved in a csv file called ‘corrupted_files.csv’.
 Once the program is finished, 'Deidentified' folder, ‘corrupted_files.csv’, and ‘deidentified.csv’ file will be generated, and press any key to end the program.
- 
+
+<img width="155" alt="image" src="https://user-images.githubusercontent.com/43692925/177824266-6ac2b154-cbf6-4d5a-b5c1-c11cad4f3953.png"> 
+
+
 	New Folder:
 	|	Image Folder:
 	|	|	deidentify32.exe
