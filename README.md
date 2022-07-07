@@ -2,12 +2,12 @@
 
 This program can detect a patient's confidential information in the top part of the medical images and replace it with a dark background. Also replaces name information from the folder and image filenames.
 
-Prerequisite of running the exe file
-32-bit Windows system
+## Prerequisite of running the exe file
+32-bit or 64 bit Windows system,
 Enough computer storage space for modified images. For example, if you have 1 GB images, please make sure you have another 1 GB space to save the modified images. 
 The image extensions supported: .jpg, jpeg, .png
 
-Running the exe file
+## Running the exe file
 Place the deidentify32.exe inside the Image Folder. Then create a New Folder and place the Image Folder within the New Folder.
 
 	New Folder:
@@ -43,9 +43,9 @@ A sample of the de-identified medical image:
 The patient’s name on the title of the image file is replaced with random digits. 
 
 
-# License	
+### License	
 Licensed under the MIT LICENSE
 
-# Contributors:
+### Contributors
 Zahid Hassan Tushar, Department of Information Systems, University of Maryland Baltimore County, ztushar1@umbc.edu
 Dr. Sanjay Purushotham, Department of Information Systems, University of Maryland Baltimore County, psanjay@umbc.edu
