@@ -48,4 +48,4 @@ Licensed under the MIT LICENSE
 
 # Contributors:
 Zahid Hassan Tushar, Department of Information Systems, University of Maryland Baltimore County, ztushar1@umbc.edu
-Sanjay Purushotham, Department of Information Systems, University of Maryland Baltimore County, psanjay@umbc.edu
+Dr. Sanjay Purushotham, Department of Information Systems, University of Maryland Baltimore County, psanjay@umbc.edu
