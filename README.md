@@ -13,8 +13,8 @@ Place the deidentify32.exe inside the Image Folder. Then create a New Folder and
 	New Folder:
 	|	Image Folder:
 	|	|	deidentify32.exe
-	|	|	801-05-01-19_DIETRICH_Chuck
-	|	|	4999-05-14-19_VANNAGELL_
+	|	|	801-05-01-19_Zahid_Tushar
+	|	|	4999-05-14-19_JOE_
 	|	|	[new patient image folder to be placed here]
 Make sure you have permission to edit the folders.
 Run deidentify32.exe by double clicking it. Wait about 30 seconds until the program starts to run and displays its own window. Do not close the program while it is running. 
@@ -31,7 +31,7 @@ Once the program is finished, 'Deidentified' folder, ‘corrupted_files.csv’, 
 	|	|	4999-05-14-19_JOE_
 	|	|	[new patient image folder to be placed here]
 	|	Deidentfied:
-	|	|	801-05-01-19_xxxxxxx_xxxx
+	|	|	801-05-01-19_xxxx_xxxxxx
 	|	|	4999-05-14-19_xxx_
 	|	|	[new deidentified patient image folder will be stored here]
 	|	corrupted_files.csv
